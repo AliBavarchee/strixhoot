@@ -1,0 +1,2 @@
+Mean Squared Error: 0.0349
+R^2 Score: 0.9477
