@@ -16,6 +16,9 @@ striXhooT is a hybrid machine learning package that integrates generative models
 - Supports PCA and SVD for dimensionality reduction.
 - Provides end-to-end orchestration of model training and evaluation.
 
+## Architecture
+
+```mermaid
 graph TD;
     A[Input Data] -->|Preprocessing| B[Feature Extraction]
     B -->|Dimensionality Reduction| C[PCA/SVD]
@@ -26,7 +29,7 @@ graph TD;
     F -->|Generated Features| G
     G -->|Train| H[LightGBM Regressor]
     H -->|Predictions| I[Final Output]
-
+```
 
 ## 📌 Installation
 To install striXhoot, clone the repository and install dependencies:
