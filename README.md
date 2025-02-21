@@ -1,5 +1,5 @@
 # **striXhooT: Hybrid Generative Model for Regression Tasks**
-=============================================<p align="Center">![StrixHoot](https://teal-broad-gecko-650.mypinata.cloud/ipfs/bafybeihncepnasy4kavp5aa62tjginydqzplx4bsvg6oiucc3t6osnpefy)</p>=============================================
+=============================================<p align="Center">![StrixHoot](https://teal-broad-gecko-650.mypinata.cloud/ipfs/bafybeiaoj7bft4gmslrswby2amszqswkaxhovsry2p7gcbmkvmqmjfqwwy)</p>=============================================
 =====
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
