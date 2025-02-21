@@ -19,7 +19,7 @@ striXhooT is a hybrid machine learning package that integrates generative models
 ## 🔥 Architecture  
 ```mermaid
 graph TD
-    A[Input Data] -->|Feature Extraction (PCA/SVD)| B[Dim-Reduced Data]
+    A['Input Data'] -->|Feature Extraction (PCA/SVD)| B[Dim-Reduced Data]
     B -->|Training| C[CVAE]
     B -->|Training| D[CGAN]
     C -->|Synthetic Data| E[Augmented Dataset]
