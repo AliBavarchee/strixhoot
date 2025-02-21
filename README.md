@@ -27,8 +27,6 @@ graph TD
     E -->|Training| F[LGBM Regressor]
     F -->|Predictions| G[Regression Output]
 
-```
-
 ## 📌 Installation
 To install striXhoot, clone the repository and install dependencies:
 ```sh
